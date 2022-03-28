@@ -1,4 +1,16 @@
 <resources>
-    <string name="app_name">Telegram Clone</string>
+
+    <string name="app_name">Telegram</string>
+
+    <!-- Menu elements -->
     <string name="menu_create_group">Создать группу</string>
+    <string name="menu_create_secret_chat">Создать секретный чат</string>
+    <string name="menu_create_channel">Создать канал</string>
+    <string name="menu_contacts">Контакты</string>
+    <string name="menu_calls">Звонки</string>
+    <string name="menu_favorites">Избранное</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_invite_friends">Пригласить друзей</string>
+    <string name="menu_questions">Вопросы о Telegram</string>
+
 </resources>
